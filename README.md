@@ -1,0 +1,2 @@
+# projetoFuctura
+python django project
